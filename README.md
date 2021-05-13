@@ -1,1 +1,1 @@
-# Mini-Project-Shopping-Application
+# Mini Project-Shopping Application
